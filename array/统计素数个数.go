@@ -1,4 +1,4 @@
-package num
+package array
 
 // PrimeNum 统计n以内素数个数，暴力解法
 // 素数，只能被1和本身除的叫素数, 0，1不是素数
